@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "u0rWJT57Wk75x5nhhWJufRaBJINvpBgNObwdgx7fSdyooclZHYyXfGNVl6ncL5kPUdR91PuyFeRnMbvJY9mXyA==",
+  "success": true,
+  "projectFilePath": "E:\\Політех_хлам\\Курс_4\\Конструювання ПЗ\\cs_2\\ClassLibrary\\ClassLibrary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\38099\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\38099\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

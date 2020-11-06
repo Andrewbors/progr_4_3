@@ -1,0 +1,13 @@
+E:\Політех_хлам\Курс_4\Конструювання ПЗ\cs_2\pr2\bin\Debug\netcoreapp3.1\pr2.exe
+E:\Політех_хлам\Курс_4\Конструювання ПЗ\cs_2\pr2\bin\Debug\netcoreapp3.1\pr2.deps.json
+E:\Політех_хлам\Курс_4\Конструювання ПЗ\cs_2\pr2\bin\Debug\netcoreapp3.1\pr2.runtimeconfig.json
+E:\Політех_хлам\Курс_4\Конструювання ПЗ\cs_2\pr2\bin\Debug\netcoreapp3.1\pr2.runtimeconfig.dev.json
+E:\Політех_хлам\Курс_4\Конструювання ПЗ\cs_2\pr2\bin\Debug\netcoreapp3.1\pr2.dll
+E:\Політех_хлам\Курс_4\Конструювання ПЗ\cs_2\pr2\bin\Debug\netcoreapp3.1\pr2.pdb
+E:\Політех_хлам\Курс_4\Конструювання ПЗ\cs_2\pr2\obj\Debug\netcoreapp3.1\pr2.csprojAssemblyReference.cache
+E:\Політех_хлам\Курс_4\Конструювання ПЗ\cs_2\pr2\obj\Debug\netcoreapp3.1\pr2.AssemblyInfoInputs.cache
+E:\Політех_хлам\Курс_4\Конструювання ПЗ\cs_2\pr2\obj\Debug\netcoreapp3.1\pr2.AssemblyInfo.cs
+E:\Політех_хлам\Курс_4\Конструювання ПЗ\cs_2\pr2\obj\Debug\netcoreapp3.1\pr2.csproj.CoreCompileInputs.cache
+E:\Політех_хлам\Курс_4\Конструювання ПЗ\cs_2\pr2\obj\Debug\netcoreapp3.1\pr2.dll
+E:\Політех_хлам\Курс_4\Конструювання ПЗ\cs_2\pr2\obj\Debug\netcoreapp3.1\pr2.pdb
+E:\Політех_хлам\Курс_4\Конструювання ПЗ\cs_2\pr2\obj\Debug\netcoreapp3.1\pr2.genruntimeconfig.cache
