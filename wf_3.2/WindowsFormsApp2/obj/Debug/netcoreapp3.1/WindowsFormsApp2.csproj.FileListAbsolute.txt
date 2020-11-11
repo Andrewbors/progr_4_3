@@ -1,0 +1,15 @@
+E:\Політех_хлам\Курс_4\Конструювання ПЗ\wf_3.2\WindowsFormsApp2\bin\Debug\netcoreapp3.1\WindowsFormsApp2.exe
+E:\Політех_хлам\Курс_4\Конструювання ПЗ\wf_3.2\WindowsFormsApp2\bin\Debug\netcoreapp3.1\WindowsFormsApp2.deps.json
+E:\Політех_хлам\Курс_4\Конструювання ПЗ\wf_3.2\WindowsFormsApp2\bin\Debug\netcoreapp3.1\WindowsFormsApp2.runtimeconfig.json
+E:\Політех_хлам\Курс_4\Конструювання ПЗ\wf_3.2\WindowsFormsApp2\bin\Debug\netcoreapp3.1\WindowsFormsApp2.runtimeconfig.dev.json
+E:\Політех_хлам\Курс_4\Конструювання ПЗ\wf_3.2\WindowsFormsApp2\bin\Debug\netcoreapp3.1\WindowsFormsApp2.dll
+E:\Політех_хлам\Курс_4\Конструювання ПЗ\wf_3.2\WindowsFormsApp2\bin\Debug\netcoreapp3.1\WindowsFormsApp2.pdb
+E:\Політех_хлам\Курс_4\Конструювання ПЗ\wf_3.2\WindowsFormsApp2\obj\Debug\netcoreapp3.1\WindowsFormsApp2.csprojAssemblyReference.cache
+E:\Політех_хлам\Курс_4\Конструювання ПЗ\wf_3.2\WindowsFormsApp2\obj\Debug\netcoreapp3.1\WindowsFormsApp2.Form1.resources
+E:\Політех_хлам\Курс_4\Конструювання ПЗ\wf_3.2\WindowsFormsApp2\obj\Debug\netcoreapp3.1\WindowsFormsApp2.csproj.GenerateResource.cache
+E:\Політех_хлам\Курс_4\Конструювання ПЗ\wf_3.2\WindowsFormsApp2\obj\Debug\netcoreapp3.1\WindowsFormsApp2.AssemblyInfoInputs.cache
+E:\Політех_хлам\Курс_4\Конструювання ПЗ\wf_3.2\WindowsFormsApp2\obj\Debug\netcoreapp3.1\WindowsFormsApp2.AssemblyInfo.cs
+E:\Політех_хлам\Курс_4\Конструювання ПЗ\wf_3.2\WindowsFormsApp2\obj\Debug\netcoreapp3.1\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+E:\Політех_хлам\Курс_4\Конструювання ПЗ\wf_3.2\WindowsFormsApp2\obj\Debug\netcoreapp3.1\WindowsFormsApp2.dll
+E:\Політех_хлам\Курс_4\Конструювання ПЗ\wf_3.2\WindowsFormsApp2\obj\Debug\netcoreapp3.1\WindowsFormsApp2.pdb
+E:\Політех_хлам\Курс_4\Конструювання ПЗ\wf_3.2\WindowsFormsApp2\obj\Debug\netcoreapp3.1\WindowsFormsApp2.genruntimeconfig.cache
